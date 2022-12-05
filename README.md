@@ -14,7 +14,7 @@ I am an ex mining engineer (the cave stuff, not the crypto) that fell in love wi
 
 #### Languages:
 
-![Swift](https://img.shields.io/badge/SWIFT-SwiftUI-orange);
+![Swift](https://img.shields.io/badge/SWIFT-SwiftUI-orange)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
